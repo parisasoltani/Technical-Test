@@ -4,8 +4,7 @@ SVM and Random Forest Classification in python
 Here is the SVM results:
 
 
-![svm](https://user-images.githubusercontent.com/59231830/112044219-2b57d180-8b67-11eb-9826-c308dd384376.JPG)
-
+![svm](https://user-images.githubusercontent.com/59231830/112044958-ee400f00-8b67-11eb-9a62-ab02b3305a60.JPG)
 
 
 Here is the Random Forest Classification results:
