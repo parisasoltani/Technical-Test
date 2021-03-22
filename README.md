@@ -14,4 +14,7 @@ Here is the Random Forest Classification results:
 
 
 
-Random Forest Classification works way better!!yay!
+Random Forest Classification works way better!!yay!😁
+
+Due my experiences, when we want to classify a large dataset, normally random forest will give us a better result. I also tried SVM to compare them with each other.
+Therefore, using Random Forest will give us a better accuracy for this dataset.
