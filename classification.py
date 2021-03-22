@@ -39,7 +39,9 @@ y_pred = classifier.predict(X_test)
 # Making the Confusion Matrix and the rpinting the results
 from sklearn.metrics import classification_report,confusion_matrix
 print("------------------------SVM------------------------")
+print("confusion matrix:")
 print(confusion_matrix(y_test, y_pred))
+print("results:")
 print(classification_report(y_test, y_pred))
 
 # Randon Forest Classification
